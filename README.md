@@ -2,7 +2,7 @@
 
 This is a BLE scanner example for the ST BluenrgMS, it shows the device and the RSSI. This code works with the NucleoL053 and the X-Nucleo-IDB05A1 expansion board.
 
-![NUCLEOL053]([https://www.st.com/bin/ecommerce/api/image.PF260001.en.feature-description-include-personalized-no-cpn-large.jpg](https://www.st.com/en/evaluation-tools/nucleo-l053r8.html))
+![NUCLEOL053](https://www.st.com/bin/ecommerce/api/image.PF260001.en.feature-description-include-personalized-no-cpn-large.jpg)
 ![BLE expansion board](https://media.digikey.com/Photos/STMicro%20Photos/X-NUCLEO-IDB05A1.JPG)
 
 ## Prerequisites
